@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dog_caller/static/css/main.3c139ae3.chunk.css",
+    "main.js": "/dog_caller/static/js/main.7f9e5326.chunk.js",
+    "main.js.map": "/dog_caller/static/js/main.7f9e5326.chunk.js.map",
+    "runtime-main.js": "/dog_caller/static/js/runtime-main.b5646d60.js",
+    "runtime-main.js.map": "/dog_caller/static/js/runtime-main.b5646d60.js.map",
+    "static/js/2.4096d887.chunk.js": "/dog_caller/static/js/2.4096d887.chunk.js",
+    "static/js/2.4096d887.chunk.js.map": "/dog_caller/static/js/2.4096d887.chunk.js.map",
+    "static/js/3.bedfeda1.chunk.js": "/dog_caller/static/js/3.bedfeda1.chunk.js",
+    "static/js/3.bedfeda1.chunk.js.map": "/dog_caller/static/js/3.bedfeda1.chunk.js.map",
+    "index.html": "/dog_caller/index.html",
+    "static/css/main.3c139ae3.chunk.css.map": "/dog_caller/static/css/main.3c139ae3.chunk.css.map",
+    "static/js/2.4096d887.chunk.js.LICENSE.txt": "/dog_caller/static/js/2.4096d887.chunk.js.LICENSE.txt",
+    "static/media/chihiro.mp3": "/dog_caller/static/media/chihiro.47493efe.mp3",
+    "static/media/lilo.mp3": "/dog_caller/static/media/lilo.5366a723.mp3",
+    "static/media/lily.mp3": "/dog_caller/static/media/lily.b14dca11.mp3",
+    "static/media/luna.mp3": "/dog_caller/static/media/luna.7a3b3fbf.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5646d60.js",
+    "static/js/2.4096d887.chunk.js",
+    "static/css/main.3c139ae3.chunk.css",
+    "static/js/main.7f9e5326.chunk.js"
+  ]
+}
